@@ -1,4 +1,4 @@
-# Superpoderoses
+-# Superpoderoses
 
 En un mundo donde las personas con superpoderes son habituales, se hizo necesaria la implementación 
 de un sistema que permite administrar a estos heroes y heroinas para que de una manera eficiente 
